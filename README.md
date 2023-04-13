@@ -11,10 +11,11 @@
 #### 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melissa-Francielle&show_icons=true&theme=great-gatsby)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melissa-Francielle&layout=compact&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 ##
-### [Tech & Tools <img align="center" alt="pc" height="20" width="20" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/desktop-computer_1f5a5-fe0f.png"/>]:
+### Tech & Tools <img align="center" alt="pc" height="20" width="20" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/desktop-computer_1f5a5-fe0f.png"/>:
  ![picture](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![picture](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 <img src="https://img.shields.io/badge/-Clip Studio Paint-ccc?logo=clipstudiopaint&logoColor=white" alt="Clip Studio Paint"/>
 ![picture](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![picture](https://img.shields.io/badge/Windows-ACER-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![picture](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)![picture](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)![picture](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
+
