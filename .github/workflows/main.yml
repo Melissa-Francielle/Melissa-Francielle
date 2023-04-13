@@ -17,7 +17,7 @@ jobs:
           github_user_name: Melissa-Francielle
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages
+      - uses: crazy-max/ghaction-github-pages@.2
         with:
           target_branch: output
           build_dir: dist
