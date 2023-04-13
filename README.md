@@ -1,5 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melissa-Francielle&show_icons=true&theme=merko)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melissa-Francielle&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melissa-Francielle&hide_progress=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melissa-Francielle&show_icons=true&theme=merko)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melissa-Francielle&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ![picture](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![picture](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
