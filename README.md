@@ -2,6 +2,7 @@
 
 # ![picture](https://em-content.zobj.net/thumbs/120/sony/336/sparkles_2728.png) PROFILE ![picture](https://em-content.zobj.net/thumbs/120/sony/336/sparkles_2728.png)
 <h6>• About Me::art:Illustrator and Visual Arts Area • :musical_note: POP & KPOP • :computer:Computer Science Student •
+# <h1> 
  
 #### 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melissa-Francielle&show_icons=true&theme=great-gatsby)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melissa-Francielle&layout=compact&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
