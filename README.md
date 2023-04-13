@@ -3,6 +3,11 @@
 # ![picture](https://em-content.zobj.net/thumbs/120/sony/336/sparkles_2728.png) PROFILE ![picture](https://em-content.zobj.net/thumbs/120/sony/336/sparkles_2728.png)
 <h6>• About Me::art:Illustrator and Visual Arts Area • :musical_note: POP & KPOP • :computer:Computer Science Student •
 # <h1> 
+ <div> 
+  <a href="https://www.instagram.com/mel.francy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatomelfrancy08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/melissa-francielle-santos-692106244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
  
 #### 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melissa-Francielle&show_icons=true&theme=great-gatsby)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melissa-Francielle&layout=compact&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
