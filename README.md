@@ -19,5 +19,7 @@
 ![picture](https://img.shields.io/badge/Windows-ACER-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![picture](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)![picture](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)![picture](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 
- 
- ![Snake animation](https://github.com/Melissa-Francielle/Melissa-Francielle/blob/output/github-contribution-grid-snake.svg)
+
+<div>
+  ![Snake animation](https://github.com/Melissa-Francielle/Melissa-Francielle/blob/output/github-contribution-grid-snake.svg)
+ </div>
