@@ -11,7 +11,7 @@
 #### 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melissa-Francielle&show_icons=true&theme=great-gatsby)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melissa-Francielle&layout=compact&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 ##
-### [Languagens + Tech & Tools]:
+### [Tech & Tools <img align="center" alt="pc" height="20" width="20" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/desktop-computer_1f5a5-fe0f.png"/>]:
  ![picture](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![picture](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 <img src="https://img.shields.io/badge/-Clip Studio Paint-ccc?logo=clipstudiopaint&logoColor=white" alt="Clip Studio Paint"/>
