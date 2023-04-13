@@ -4,7 +4,7 @@
 <h6>• About Me::art:Illustrator and Visual Arts Area • :musical_note: POP & KPOP • :computer:Computer Science Student •
  
 #### 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melissa-Francielle&show_icons=true&theme=merko)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melissa-Francielle&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melissa-Francielle&show_icons=true&theme=great-gatsby)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melissa-Francielle&layout=compact&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 ##
 ### [Languagens + Tech & Tools]:
  ![picture](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
