@@ -1,3 +1,4 @@
+
 # ![picture](https://em-content.zobj.net/thumbs/120/sony/336/sparkles_2728.png) PROFILE ![picture](https://em-content.zobj.net/thumbs/120/sony/336/sparkles_2728.png)<h1>
 <h6>• About Me:<h6> •:art:Illustrator and Visual Arts Area • :musical_note: POP & KPOP • :computer:Computer Science Student •
 
