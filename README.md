@@ -1,4 +1,4 @@
- <img align="center" alt="rainbow" height="200" width="700" src="https://camo.githubusercontent.com/6b68754bfe9a1bc4abebfabc34d4701bae4fa96c73172f2788d6a4163b0ce38c/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966"/>
+ <img align="center" alt="rainbow" height="70" width="2000" src="https://camo.githubusercontent.com/6b68754bfe9a1bc4abebfabc34d4701bae4fa96c73172f2788d6a4163b0ce38c/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966"/>
 
 # ![picture](https://em-content.zobj.net/thumbs/120/sony/336/sparkles_2728.png) PROFILE ![picture](https://em-content.zobj.net/thumbs/120/sony/336/sparkles_2728.png)<h1>
 <h6>• About Me:<h6> •:art:Illustrator and Visual Arts Area • :musical_note: POP & KPOP • :computer:Computer Science Student •
