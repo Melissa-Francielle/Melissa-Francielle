@@ -2,7 +2,7 @@
 
 # ![picture](https://em-content.zobj.net/thumbs/120/sony/336/sparkles_2728.png) PROFILE ![picture](https://em-content.zobj.net/thumbs/120/sony/336/sparkles_2728.png)
 <h6>• About Me::art:Illustrator and Visual Arts Area • :musical_note: POP & KPOP • :computer:Computer Science Student •
-  <img align="right" alt="moomoo" height="75" width="75" src="https://twitter.com/bbuBLUE_world/status/1647336091047849984?t=SMMIPUVQrGPk2K02LXES5A&s=19"/>
+  <img align="right" alt="moomoo" height="75" width="50" src="https://cdn140.picsart.com/281591458022211.png"/>
  <h1> 
  <div> 
   <a href="https://www.instagram.com/mel.francy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
