@@ -1,7 +1,7 @@
 <img align="center" alt="new_rainbow" height="70" width="2000" src="https://shepfax.carrd.co/assets/images/image01.gif?v=9ad3412b"/> 
 
 # ![picture](https://em-content.zobj.net/thumbs/120/sony/336/sparkles_2728.png) OH! Hello, this is my profile. It's nice to see you here ![picture](https://em-content.zobj.net/thumbs/120/sony/336/sparkles_2728.png)  <img align="right" alt="moomoo" height="65" width="45" src="https://cdn140.picsart.com/281591458022211.png"/>
- #### **About Me**: I'm a professional illustrator and animator, I really like music and I'm a computer science student (I know they don't match). <img align="" alt="ace" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/free-asexuality-3196364-2689184.png?f=webp"/> <img align="" alt="aro" height="35" width="40" src="https://cdn3.emoji.gg/emojis/6391-aromantic-flag.png"/>  <img align="" alt="bi" height="45" width="45" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3430373/bisexualflag-icon-icon-md.png"/>
+ #### **About Me**: I'm a professional illustrator and animator, I really like music and I'm a computer science student (I know they don't match).
  #### I have projects in favor of people with disabilities: hearing, mental and cognitive. <img align="" alt="autism" height="40" width="45" src="https://static.vecteezy.com/system/resources/previews/021/437/132/original/world-autism-awareness-day-ribbon-free-png.png"/> 
  <h1> 
  <div>
@@ -17,7 +17,7 @@
 
  
 #### 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melissa-Francielle&show_icons=true&theme=great-gatsby)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melissa-Francielle&layout=compact&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melissa-Francielle&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melissa-Francielle&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ##
  Programming languages: 
  
