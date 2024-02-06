@@ -1,7 +1,7 @@
 <img align="center" alt="new_rainbow" height="70" width="2000" src="https://shepfax.carrd.co/assets/images/image01.gif?v=9ad3412b"/> 
 
 # ![picture](https://em-content.zobj.net/thumbs/120/sony/336/sparkles_2728.png) OH! Hello, this is my profile. It's nice to see you here ![picture](https://em-content.zobj.net/thumbs/120/sony/336/sparkles_2728.png)  <img align="right" alt="moomoo" height="65" width="45" src="https://cdn140.picsart.com/281591458022211.png"/>
- #### **About Me**: I'm a professional illustrator and animator, I really like music and I'm a computer science student (I know they don't match).
+ #### **About Me**: I'm a professional illustrator and animator, I really like music and I'm a computer science student (I know they don't match). And I'm 02 line...
  #### I have projects in favor of people with disabilities: hearing, mental and cognitive. <img align="" alt="autism" height="40" width="45" src="https://static.vecteezy.com/system/resources/previews/021/437/132/original/world-autism-awareness-day-ribbon-free-png.png"/> 
  <h1> 
  <div>
