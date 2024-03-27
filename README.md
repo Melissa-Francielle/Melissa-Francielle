@@ -21,7 +21,7 @@
 ##
  Programming languages: 
  
- <img align="" alt="C" height="40" width="45" src="https://1.bp.blogspot.com/--T_5OfKvaSo/XPAFw9jqmOI/AAAAAAAAAEA/1pBpk8qnGlExkA-tvPZxYIhm4ERCEC_MwCLcBGAs/s1600/c-logo.png"/> <img align="" alt="JAVA" height="50" width="55" src="https://blog.geekhunter.com.br/wp-content/uploads/2020/07/pngwing.com_.png"/> <img align="" alt="Python" height="40" width="45" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png"/> <img align="" alt="Gdscript" height="35" width="40" src="https://seeklogo.com/images/G/godot-icon-logo-23E688940B-seeklogo.com.png"/> 
+ <img align="" alt="C" height="40" width="45" src="https://1.bp.blogspot.com/--T_5OfKvaSo/XPAFw9jqmOI/AAAAAAAAAEA/1pBpk8qnGlExkA-tvPZxYIhm4ERCEC_MwCLcBGAs/s1600/c-logo.png"/> <img align="" alt="JAVA" height="50" width="55" src="https://blog.geekhunter.com.br/wp-content/uploads/2020/07/pngwing.com_.png"/> <img align="" alt="Python" height="40" width="45" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png"/> <img align="" alt="Gdscript" height="35" width="40" src="https://seeklogo.com/images/G/godot-icon-logo-23E688940B-seeklogo.com.png"/>  <img align="" alt="Csharp" height="40" width="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/> 
  ####
 
 
