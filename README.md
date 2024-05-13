@@ -17,7 +17,7 @@
 
  
 #### 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melissa-Francielle&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melissa-Francielle&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melissa-Francielle&show_icons=true&theme=shadow_blue)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melissa-Francielle&layout=compact&show_icons=true&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 ##
  Programming languages: 
  
