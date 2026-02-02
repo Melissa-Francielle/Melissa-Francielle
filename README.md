@@ -8,7 +8,7 @@
 
 ___
 #### **Something's about me!**
-I am currently 24 years old (02 line hehehe), you can use the pronouns she/her with me! I have a degree in Computer Science from UENP (State University of Northern Paraná - BRAZIL).
+I am currently 24 years old (02 line hehehe), you can use the pronouns she/her with me! I have a degree in Computer Science from UENP (Universidade Estadual do Norte do Paraná- BRAZIL).
 
 For two years, I was part of a project calling **NINOEDU**, that developed educational games for children with intellectual disabilities, where I worked as a designer, illustrator, and developer!
 
