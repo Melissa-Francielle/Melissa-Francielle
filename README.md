@@ -17,6 +17,8 @@ I enjoy drawing, games, and music. In my free time, I love just being by myself 
 #### **Curiosities**
 * I've been a designer for almost 19 years (18 years in traditional art and 6 in digital).
 
+* I created a brand (still under development) called Samsaek Studios! 😺
+
 * I enjoy learning musical instruments; I know guitar and keyboard.
 
 * I like games; I've developed some both as part of a project and independently. You can find one of my best works here: [Retro Pentium](https://github.com/Melissa-Francielle/Retro_Pentium)
