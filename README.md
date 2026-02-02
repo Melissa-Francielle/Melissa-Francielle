@@ -1,8 +1,10 @@
 <img align="right" alt="serendipty" height="70" width="70" src="https://i.pinimg.com/originals/e8/d0/f1/e8d0f1794e2520ac2367c1d21c0966e9.gif"/> 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FA8437&size=20&center=true&vCenter=true&width=600&lines=Hello!+I'm+Mel; And+this+is+my+Github+Repository!;  Feel+free+to+check+out+the+code+and+other+things" />
-</h1>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=FF8C00&size=26&center=true&vCenter=true&width=650&lines=Hello!+My+name+is+Mel;This+is+my+GitHub+Repository+" 
+  />
+</p>
 
 ___
 #### **Something's about me!**
