@@ -7,14 +7,14 @@
 </p>
 
 ___
-#### **Something's about me!**
+## **Something's about me!**
 I am currently 24 years old (02 line hehehe), you can use the pronouns she/her with me! I have a degree in Computer Science from UENP (Universidade Estadual do Norte do Paraná- BRAZIL).
 
 For two years, I was part of a project calling **NINOEDU**, that developed educational games for children with intellectual disabilities, where I worked as a designer, illustrator, and developer!
 
 I enjoy drawing, games, and music. In my free time, I love just being by myself doing my own little things, haha! I like spending time alone, but I also enjoy spending time with family and friends.
 
-#### **Curiosities**
+## **Curiosities**
 * I've been a designer for almost 19 years (18 years in traditional art and 6 in digital).
 
 * I created a brand (still under development) called Samsaek Studios! 😺
@@ -26,7 +26,7 @@ I enjoy drawing, games, and music. In my free time, I love just being by myself 
 ___
 
 
-#### **Some programs and languages ​​that I am familiar with and have had contact with.**
+## **Some programs and languages ​​that I am familiar with and have had contact with.**
 
 **Languages**
 <img align="right" alt="serendipty" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png"/> 
