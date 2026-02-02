@@ -1,29 +1,71 @@
-<img align="center" alt="new_rainbow" height="70" width="2000" src="https://shepfax.carrd.co/assets/images/image01.gif?v=9ad3412b"/> 
+<img align="right" alt="serendipty" height="70" width="70" src="https://i.pinimg.com/originals/e8/d0/f1/e8d0f1794e2520ac2367c1d21c0966e9.gif"/> 
 
-# ![picture](https://em-content.zobj.net/thumbs/120/sony/336/sparkles_2728.png) OH! Hello, this is my profile. It's nice to see you here ![picture](https://em-content.zobj.net/thumbs/120/sony/336/sparkles_2728.png)  <img align="right" alt="moomoo" height="65" width="45" src="https://cdn140.picsart.com/281591458022211.png"/>
- #### **About Me**: I'm a professional illustrator and animator, I really like music and I'm a computer science student (I know they don't match). And I'm 02 line...
- #### I have projects in favor of people with disabilities: hearing, mental and cognitive. <img align="" alt="autism" height="40" width="45" src="https://static.vecteezy.com/system/resources/previews/021/437/132/original/world-autism-awareness-day-ribbon-free-png.png"/> 
- <h1> 
- <div>
-  <h6>
-   The programs I use for work:
-  </h6> 
-  <img align="" alt="clipstudio" height="40" width="45" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/clip_studio_paint_macos_bigsur_icon_189480.png"/> <img align="" alt="godot" height="35" width="40" src="https://seeklogo.com/images/G/godot-icon-logo-23E688940B-seeklogo.com.png"/
-<div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FA8437&size=20&center=true&vCenter=true&width=600&lines=Hello!+I'm+Mel; And+this+is+my+Github+Repository!;  Feel+free+to+check+out+the+code+and+other+things" />
+</h1>
 
-#### Social midias 
-  <a href="https://www.instagram.com/mel.francy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/melissa-francielle-santos-692106244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+___
+#### **Something's about me!**
+I am currently 24 years old (02 line hehehe), you can use the pronouns she/her with me! I have a degree in Computer Science from UENP (State University of Northern Paraná - BRAZIL).
 
- 
-#### 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melissa-Francielle&show_icons=true&theme=shadow_blue)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melissa-Francielle&layout=compact&show_icons=true&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
-##
- Programming languages: 
- 
- <img align="" alt="C" height="40" width="45" src="https://1.bp.blogspot.com/--T_5OfKvaSo/XPAFw9jqmOI/AAAAAAAAAEA/1pBpk8qnGlExkA-tvPZxYIhm4ERCEC_MwCLcBGAs/s1600/c-logo.png"/> <img align="" alt="JAVA" height="50" width="55" src="https://blog.geekhunter.com.br/wp-content/uploads/2020/07/pngwing.com_.png"/> <img align="" alt="Python" height="40" width="45" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png"/> <img align="" alt="Gdscript" height="35" width="40" src="https://seeklogo.com/images/G/godot-icon-logo-23E688940B-seeklogo.com.png"/>  <img align="" alt="Csharp" height="40" width="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/> 
- ####
+For two years, I was part of a project calling **NINOEDU**, that developed educational games for children with intellectual disabilities, where I worked as a designer, illustrator, and developer!
+
+I enjoy drawing, games, and music. In my free time, I love just being by myself doing my own little things, haha! I like spending time alone, but I also enjoy spending time with family and friends.
+
+#### **Curiosities**
+* I've been a designer for almost 19 years (18 years in traditional art and 6 in digital).
+
+* I enjoy learning musical instruments; I know guitar and keyboard.
+
+* I like games; I've developed some both as part of a project and independently. You can find one of my best works here: [Retro Pentium](https://github.com/Melissa-Francielle/Retro_Pentium)
+
+___
 
 
- <img align="right" alt="whalien" height="100" width="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiYzM0YWIyMmYwNGU4Y2Y5NDlkYTc1M2IzZTU5YWNmZmVkYmI0YSZjdD1z/mxfIzQRejtjzWaB06t/giphy.gif"/>
- 
+#### **Some programs and languages ​​that I am familiar with and have had contact with.**
+
+**Languages**
+<img align="right" alt="serendipty" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png"/> 
+
+* C
+* Java
+* Python
+* GDScript
+* C#
+
+**Programs**
+<img align="right" alt="serendipty" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/2833/2833756.png"/> 
+
+* Clipstudio Paint (Illustration and Designer)
+* Godot and Unity (Game Development)
+* Figma and Canvas (Designer)
+* VisualCode (Codification)
+* Blender (Modeling)
+
+____________
+
+## **Some of my social media accounts**
+
+<p align="left">
+  <a href="https://www.instagram.com/mel.francy/">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" />
+  </a>
+  <a href="https://linkedin.com/in/melissa-francielle-santos-692106244/">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" />
+  </a>
+  <a href="https://x.com/franciee_mood">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" />
+  </a>
+</p>
+
+
+_____
+
+<img align="center
+" alt="serendipty" height="100" width="1000" src="https://cloudblogger.co.in/wp-content/uploads/2022/01/giphy-3.gif"/> 
+</p>
+<p align="right">
+<sub>Inclusive, respectful & creative 💜</sub>
+</p>
+
+
